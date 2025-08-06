@@ -1,7 +1,7 @@
 package org.example
 
 fun main() {
-    println("Hello Calculator!")
+    println("Hello Katherinne!")
         val calculator = Calculator()
 
         val sum = calculator.add(5.0, 3.0)
